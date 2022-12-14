@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="My second table" max_length="40" name="x_341528_my_custom_my_second_table" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="My date field" max_length="40" name="my_date_field" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
